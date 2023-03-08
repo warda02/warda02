@@ -1,4 +1,4 @@
-[![MasterHead](https://www.exatosoftware.com/blog/wp-content/uploads/2020/04/full-stack-developer.jpg)](https://warda02.io)
+[![MasterHead](https://www.okdo.com/wp-content/uploads/2022/05/OKdo_HowToCodeArtboard_3000-okdo-blog.png?w=1024&resize=3000%2C771)](https://warda02.io)
 
 
 
