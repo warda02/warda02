@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript, PHP (Laravel) ,**
 
-- 💬 Ask me about **FRONTEND & BACKEND DEVELOPER**
+- 💬 Ask me about **FRONTEND DEVELOPMENT**
 
 - 📫 How to reach me **warda.e.fatima@gmail.com**
 
