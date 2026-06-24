@@ -1,30 +1,85 @@
-[![MasterHead](https://www.okdo.com/wp-content/uploads/2022/05/OKdo_HowToCodeArtboard_3000-okdo-blog.png?w=1024&resize=3000%2C771)](https://warda02.io)
+<div align="center">
 
+# Hi there, I'm Warda Fatima 👋
 
+### Front-End Developer | HTML • CSS • JavaScript | Karachi, Pakistan
 
-<h1 align="center">Hi 👋, I'm warda fatima</h1>
-<h3 align="center">A passionate web developer from Pakistan</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/warda-fatima-58b195259)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:warda.e.fatima@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=warda02&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/warda02)
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=warda02&label=Profile%20views&color=0e75b6&style=flat" alt="warda02" /> </p>
+---
 
-- 🌱 I’m currently learning **JavaScript, PHP (Laravel) ,**
+## 👩‍💻 About Me
 
-- 💬 Ask me about **FRONTEND DEVELOPMENT**
+I'm a passionate **Front-End Developer** from Karachi, Pakistan who loves building clean, responsive, and user-friendly web interfaces. I focus on writing readable code and creating engaging user experiences.
 
-- 📫 How to reach me **warda.e.fatima@gmail.com**
+- 🔭 Currently working on improving my **JavaScript & React** skills
+- 🌱 Learning **React.js** and exploring **Laravel (PHP)**
+- 💡 I enjoy turning ideas into real, working web projects
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Figma**
+- 📫 Reach me at **warda.e.fatima@gmail.com**
+- 📍 Based in **Karachi, Pakistan**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/warda-fatima-58b195259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="warda-fatima-58b195259" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=warda02&show_icons=true&locale=en&layout=compact" alt="warda02" /></p>
+**Languages & Markup**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=warda02&show_icons=true&locale=en" alt="warda02" /></p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=warda02&" alt="warda02" /></p>
+**Frameworks & Libraries**
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Design & Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 [E-Commerce Card Shop](https://github.com/warda02/Ecommerce)
+A responsive multi-page e-commerce website featuring a product shop, login/signup pages, and a checkout flow. Built with pure HTML, CSS, and JavaScript.
+`HTML` `CSS` `JavaScript`
+
+### 🧠 [Quiz Bee](https://github.com/warda02/Quiz-bee)
+An interactive quiz application with dynamic question rendering, score tracking, and instant feedback. Built using vanilla JavaScript DOM manipulation.
+`JavaScript` `HTML` `CSS`
+
+### ✅ [To-Do List App](https://github.com/warda02/To-do-list)
+A clean and minimal task management app with add, complete, and delete functionality. Features local state management with JavaScript.
+`JavaScript` `CSS` `HTML`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Warda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=warda02&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=warda02&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
